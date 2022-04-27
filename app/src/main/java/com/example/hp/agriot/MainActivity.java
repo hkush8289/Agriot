@@ -15,7 +15,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
 public class MainActivity extends AppCompatActivity {
-    String API_KEY = "5eba8d8af4cf4c9284e055c2bf7fba66"; // ### YOUE NEWS API HERE ###
+    String API_KEY = ""; // ### YOUE NEWS API HERE ###
     String NEWS_SOURCE = "techcrunch"; // Other news source code at: https://newsapi.org/sources
     ListView listNews;
     ProgressBar loader;
